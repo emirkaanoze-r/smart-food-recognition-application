@@ -1,0 +1,122 @@
+{
+  "apple": {
+    "turkish_name": "Elma",
+    "description": "Lif ve C vitamini açısından zengindir, sindirimi destekler. Şeker hastaları porsiyona dikkat etmeli.",
+    "regions": [
+      "Türkiye: Amasya, Isparta, Niğde, Karaman",
+      "Dünya: Çin, ABD, Polonya, Türkiye"
+    ]
+  },
+  "banana": {
+    "turkish_name": "Muz",
+    "description": "Potasyum ve B6 vitamini içerir, enerji verir. Fazla tüketim kalori artışına neden olabilir.",
+    "regions": [
+      "Türkiye: Mersin, Antalya, Alanya, Anamur",
+      "Dünya: Hindistan, Çin, Endonezya, Brezilya"
+    ]
+  },
+  "grape": {
+    "turkish_name": "Üzüm",
+    "description": "Antioksidan ve C vitamini kaynağıdır, kalp sağlığını destekler. Şeker oranı yüksektir, diyabet hastaları dikkatli tüketmeli.",
+    "regions": [
+      "Türkiye: Manisa, Denizli, İzmir",
+      "Dünya: İtalya, Çin, ABD, İspanya"
+    ]
+  },
+  "lemon": {
+    "turkish_name": "Limon",
+    "description": "C vitamini deposu ve bağışıklık sistemini güçlendirir. Asidik yapısı mide hassasiyeti olanlarda rahatsızlık verebilir.",
+    "regions": [
+      "Türkiye: Mersin, Adana, Hatay, Antalya",
+      "Dünya: Hindistan, Meksika, Çin"
+    ]
+  },
+  "olive": {
+    "turkish_name": "Zeytin",
+    "description": "E vitamini ve sağlıklı yağlar açısından zengindir. Tuzlu çeşitlerinde tansiyon hastaları miktara dikkat etmeli.",
+    "regions": [
+      "Türkiye: Ege ve Marmara (Akhisar, Ayvalık, Gemlik)",
+      "Dünya: İspanya, İtalya, Yunanistan, Türkiye"
+    ]
+  },
+  "pomegranate": {
+    "turkish_name": "Nar",
+    "description": "Güçlü antioksidan içerir, bağışıklığı artırır. Kan sulandırıcı ilaç kullananlar doktora danışmalı.",
+    "regions": [
+      "Türkiye: Antalya, Mersin, İzmir, Denizli",
+      "Dünya: Hindistan, İran, Çin"
+    ]
+  },
+  "broccoli": {
+    "turkish_name": "Brokoli",
+    "description": "Lif, C ve K vitamini açısından zengindir, bağışıklığı destekler. Tiroid rahatsızlığı olanlar aşırıya kaçmamalı.",
+    "regions": [
+      "Türkiye: Bursa, İzmir, Sakarya",
+      "Dünya: Çin, Hindistan, ABD"
+    ]
+  },
+  "carrot": {
+    "turkish_name": "Havuç",
+    "description": "A vitamini kaynağıdır, göz sağlığına faydalıdır. Fazla tüketimde ciltte hafif sararma görülebilir.",
+    "regions": [
+      "Türkiye: Ankara, Eskişehir, Konya",
+      "Dünya: Çin, ABD, Rusya"
+    ]
+  },
+  "corn": {
+    "turkish_name": "Mısır",
+    "description": "Enerji ve lif kaynağıdır, sindirimi kolaylaştırır. Kan şekerini hızlı yükseltebilir, diyabetliler dikkatli olmalı.",
+    "regions": [
+      "Türkiye: Adana, Şanlıurfa, Mardin",
+      "Dünya: ABD, Çin, Brezilya"
+    ]
+  },
+  "cucumber": {
+    "turkish_name": "Salatalık",
+    "description": "Su oranı yüksektir, böbrekleri destekler. Fazla tüketimde idrar söktürücü etki yapabilir.",
+    "regions": [
+      "Türkiye: Antalya, Mersin, Bursa",
+      "Dünya: Çin, Türkiye, İran"
+    ]
+  },
+  "eggplant": {
+    "turkish_name": "Patlıcan",
+    "description": "Düşük kalorilidir, lif ve antioksidan içerir. Çiğ tüketilmemeli, pişirilerek yenmelidir.",
+    "regions": [
+      "Türkiye: Antalya, Mersin, Aydın",
+      "Dünya: Çin, Hindistan, Mısır"
+    ]
+  },
+  "basil": {
+    "turkish_name": "Fesleğen",
+    "description": "K vitamini ve antioksidan kaynağıdır, bağışıklığı destekler. Kan sulandırıcı ilaç kullananlar tüketirken dikkat etmeli.",
+    "regions": [
+      "Türkiye: Akdeniz ve Ege Bölgeleri",
+      "Dünya: Hindistan, İtalya, Fransa"
+    ]
+  },
+  "garlic": {
+    "turkish_name": "Sarımsak",
+    "description": "Doğal antibiyotik, kolesterol ve tansiyonu düzenleyebilir. Fazla tüketimde mide hassasiyeti yapabilir.",
+    "regions": [
+      "Türkiye: Kastamonu (Taşköprü), Gaziantep",
+      "Dünya: Çin, Hindistan, Bangladeş"
+    ]
+  },
+  "potato": {
+    "turkish_name": "Patates",
+    "description": "Potasyum ve C vitamini içerir. Kızartma yerine haşlama veya fırında tüketmek daha sağlıklıdır.",
+    "regions": [
+      "Türkiye: Niğde, Nevşehir, Afyon, Kayseri",
+      "Dünya: Çin, Hindistan, Rusya"
+    ]
+  },
+  "tomato": {
+    "turkish_name": "Domates",
+    "description": "Likopen ve C vitamini açısından zengindir, kalp sağlığını korur. Reflü hastaları fazla tüketmemeli.",
+    "regions": [
+      "Türkiye: Antalya, Mersin, Manisa, Bursa",
+      "Dünya: Çin, Hindistan, ABD"
+    ]
+  }
+}

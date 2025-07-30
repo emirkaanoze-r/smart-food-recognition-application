@@ -1,0 +1,15 @@
+apple
+banana
+basil
+broccoli
+carrot
+corn
+cucumber
+eggplant
+garlic
+grape
+lemon
+olive
+pomegranate
+potato
+tomato

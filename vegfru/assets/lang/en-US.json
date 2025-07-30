@@ -1,0 +1,18 @@
+{
+  "app_name": "Food Classifier",
+  "login": "Login",
+  "register": "Register",
+  "email": "Email",
+  "password": "Password",
+  "dont_have_account": "Don't have an account? Register",
+  "already_have_account": "Already have an account? Login",
+  "profile": "Profile",
+  "logout": "Logout",
+  "ai_recipe": "AI Recipe",
+  "history": "History",
+  "about_us": "About Us",
+  "contact": "Contact",
+  "main_menu": "Main Menu",
+  "healthy_eat_info": "Eat Healthy, Be Informed!",
+  "language": "Change Language"
+}

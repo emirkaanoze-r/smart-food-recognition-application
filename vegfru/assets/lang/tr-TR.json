@@ -1,0 +1,18 @@
+{
+  "app_name": "Akıllı Gıda tanıma",
+  "login": "Giriş Yap",
+  "register": "Kayıt Ol",
+  "email": "E-Posta",
+  "password": "Şifre",
+  "dont_have_account": "Hesabın yok mu? Kayıt Ol",
+  "already_have_account": "Zaten hesabın var mı? Giriş Yap",
+  "profile": "Profilim",
+  "logout": "Çıkış Yap",
+  "ai_recipe": "Yapay Zeka Tarif",
+  "history": "Geçmiş",
+  "about_us": "Hakkımızda",
+  "contact": "İletişim",
+  "main_menu": "Ana Menü",
+  "healthy_eat_info": "Sağlıklı Beslen, Bilgilen!",
+  "language": "Dil Değiştir"
+}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "34875321744",
+    "project_id": "vegfru-30f8c",
+    "storage_bucket": "vegfru-30f8c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34875321744:android:ce98f2220c81efa85a1715",
+        "android_client_info": {
+          "package_name": "com.example.vegfru"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJveBOVfXhxnZS9IaTEIOHOp8heR1GqJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
