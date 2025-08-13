@@ -31,28 +31,29 @@ Kullanıcılar meyve veya sebze fotoğrafı çekerek ya da galeriden seçerek be
 ## 📸 Ekran Görselleri
 
 ### Ana Menü
-![Ana Menü](./Ana_Menü.png)
+![Ana Menü](./picture/Ana_Menü.png)
 
 ### Besin Bilgileri
-![Besin Bilgileri](./Besin_Bilgileri.png)
+![Besin Bilgileri](./picture/Besin_Bilgileri.png)
 
 ### Bilgilendirici Metin
-![Bilgilendirici Metin](./Bilgilendirici_metin.png)
+![Bilgilendirici Metin](./picture/Bilgilendirici_metin.png)
 
 ### Geçmiş Ekranı
-![Geçmiş](./Geçmiş_TekSil.png)
+![Geçmiş](./picture/Geçmiş_TekSil.png)
 
 ### Kayıt Ol Ekranı
-![Kayıt Ol](./Kayıt_ol.png)
+![Kayıt Ol](./picture/Kayıt_ol.png)
 
 ### Profilim Ekranı
-![Profilim](./profilim2.png)
+![Profilim](./picture/profilim2.png)
 
 ### Yapay Zeka ile Tarif
-![Yapay Zeka Tarif](./YapayZekaTarifSonuç.png)
+![Yapay Zeka Tarif](./picture/YapayZekaTarifSonuç.png)
 
 ### Admin Panel
-![Admin Panel](./adminpanel.png)
+![Admin Panel](./picture/adminpanel.png)
+
 
 ---
 
